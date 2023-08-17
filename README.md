@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **React, Data Structures & Algorithm**
+- 💬 Ask me about **MERN, Data Structures & Algorithm**
 
 - 📫 How to reach me **davesurbhit2001@gmail.com**
 

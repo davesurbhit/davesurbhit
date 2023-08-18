@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **davesurbhit2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1feRRNU3jW9yU9S6E5wqFq23YSgODwKDd/view?usp=sharing](https://drive.google.com/file/d/1feRRNU3jW9yU9S6E5wqFq23YSgODwKDd/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XOXfeSun2xUy88T4LmYCLqPgOUIPmsR8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

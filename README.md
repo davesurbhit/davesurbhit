@@ -7,13 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sxrbh1t" target="blank"><img src="https://img.shields.io/twitter/follow/sxrbh1t?logo=twitter&style=for-the-badge" alt="sxrbh1t" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
-
-- 💬 Ask me about **MERN, Data Structures & Algorithm**
-
 - 📫 How to reach me **davesurbhit2001@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XOXfeSun2xUy88T4LmYCLqPgOUIPmsR8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
